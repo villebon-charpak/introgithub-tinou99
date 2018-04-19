@@ -74,6 +74,6 @@ print(nombre)
 
 
 nombre_de_clients = 0
-nombre_de_clients = nombre_de_client + 2 - 1
+nombre_de_clients = nombre_de_clients + 2 - 1
 print(nombre_de_clients)
 
